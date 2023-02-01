@@ -1,5 +1,5 @@
 # Netflix Clone
-A responsive netflix clone using reactjs.
+A responsive netflix clone built using React and TMDB.
 
 https://user-images.githubusercontent.com/76790227/148656762-b00c7d3b-e0cb-4135-b356-ff0e8d7dc708.mp4
 
@@ -11,13 +11,13 @@ https://user-images.githubusercontent.com/76790227/148656762-b00c7d3b-e0cb-4135-
 
 --> Has three different pages - Home, TV shows and Movies
 
---> You can click on the thumbnail of movies and watch their trailers
+--> You can click on any thumbnail of movie and watch it's trailer
 
---> You can close the video tab by again clicking on the thumbnail
+--> You can close the video by clicking on the thumbnail again
 
---> Many different categories to just like real app
+--> Many different categories shown just like real netflix
 
---> By clicking on the profile icon you can see the details about me
+--> By clicking on the profile icon, you can see details about me.
 
 ## Installation
 
